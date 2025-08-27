@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+#details{
+  justify-content: center;
+  display: flex;
+  background-color: red;
+  gap: 300px;
+}
+#featured-property{
+  text-align: center;
+
+  
+}
+nav{
+  text-align: center;
+  display: flex;
+}
+header{
+  text-align: center;
+}
+ nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 20px; /* add spacing between nav links */
+  background-color: aliceblue;
+  padding: 10px 0;
+  text-align: center;
+
+}
